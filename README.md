@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElisabethTulla
+- 👋 Hi
 - 👀 I’m interested in coding, being creative and learning.
 
 <!---
